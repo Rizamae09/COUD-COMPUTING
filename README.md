@@ -1,10 +1,10 @@
-# Cloud Computing Repository
+# Cloud-Computing Repository
 
 ## Name
-Riza Mendza
+Riza Mae E. Mendoza
 
 ## Course and Section
-BSIT 3F
+BSIT 4 year Block: F
 
 ## Description
 This repository contains my activities, exercises, projects, and assignments for our Cloud Computing course.
