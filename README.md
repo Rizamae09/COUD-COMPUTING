@@ -1,10 +1,10 @@
-Cloud Computing Repository
+# Cloud Computing Repository
 
-Name
+## Name
 Riza Mendza
 
-Course and Section
+## Course and Section
 BSIT 3F
 
-Description
+## Description
 This repository contains my activities, exercises, projects, and assignments for our Cloud Computing course.
