@@ -42,7 +42,7 @@ AWS is widely used by businesses and organizations for websites and mobile appli
 
 ## 7. Screenshot
 
-[AWS Homepage](screenshots/aws-homepage.png)
+![AWS Homepage](screenshots/aws-homepage.png)
 
 *Figure 1. AWS official homepage.*
 
