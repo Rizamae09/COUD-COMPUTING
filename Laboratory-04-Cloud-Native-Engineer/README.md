@@ -14,8 +14,4 @@ This laboratory activity focuses on understanding the difference between Virtual
 
 ## Docker Commands Executed
 
-### Checkpoint 3 - Docker Verification
 
-```bash
-docker --version
-docker info
