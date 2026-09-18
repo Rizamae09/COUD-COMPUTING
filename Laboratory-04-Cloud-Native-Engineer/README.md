@@ -12,6 +12,6 @@ This laboratory activity focuses on understanding the difference between Virtual
 - Pull, run, manage, and terminate an Nginx container.
 - Create technical documentation using Markdown.
 
-## Docker Commands Executed
+
 
 
